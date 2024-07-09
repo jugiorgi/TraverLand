@@ -1,5 +1,44 @@
-![python](https://efficient-sloth-d85.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F08f749ff-d06d-49a8-a488-9846e081b224%2F307316f4-a2f1-45ca-a401-89bd21c0fb57%2Fpython.svg?table=block&id=87593c53-b3b7-44dd-b2a5-08cd40a4a22a&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&userId=&cache=v2)
 
+# Traverland
+
+## 🎬 Começando
+
+Essas instruções permitirão que você obtenha uma cópia do projeto para fins de desenvolvimento e teste.
+
+### ⚠ Pré-requisitos
+
+Do que você precisa para instalar o software?
+
+```
+Python 3
+```
+
+### 🔧 Instalação
+
+A criação do ambiente virtual é feita executando o comando venv:
+
+```
+python -m venv {path to new env envinroment}
+```
+
+No Windows, use o comando venv da seguinte forma para ativar o ambiente virtual:
+
+```
+.\venv\Scripts\activate
+```
+
+### ⚡ Execução
+
+Em desenvolvimento
+
+```
+
+```
+
+
+## 🏗️ Construído com
+
+* [Python](https://docs.python.org/3/)
 
 <div style="display: flex; align-items: center; justify-content: center; width: 100vw;">
     <img src="https://raw.githubusercontent.com/jugiorgi/Traverland/main/assets/impala_67.png" alt="thats all folks" style="width:80%;"/>
